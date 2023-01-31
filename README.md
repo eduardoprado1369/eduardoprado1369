@@ -1,4 +1,4 @@
-### Hey, Welcome to my profile! 
+### Hey, welcome to my profile! 
 - 🌱 I’m currently studying Trybe's Web Development course and looking for a job as Web Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoprado1369&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
