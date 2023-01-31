@@ -1,5 +1,5 @@
 ### Hey, welcome to my profile! 
-- 🌱 I’m currently studying Trybe's web development course and looking for a job as web developer.
+- 🌱 I’m currently studying <a href="https://github.com/betrybe">Trybe</a>'s web development course and looking for a job as web developer.
 
 ![eduardoprado1369's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoprado1369&hide=issues&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoprado1369&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
