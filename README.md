@@ -1,4 +1,4 @@
-### Hi! Welcome to my profile! 
+### Hey, Welcome to my profile! 
 - 🌱 I’m currently studying Trybe's Web Development course and looking for a job as Web Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoprado1369&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -6,7 +6,7 @@
 
 - 💻 Technologies I've worked with:
 
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
